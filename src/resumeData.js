@@ -20,6 +20,11 @@ let resumeData = {
           "name":"twitter",
           "url":"http://twitter.com/iamtridiv",
           "className":"fa fa-twitter"
+        },
+        {
+            "name":"instagram",
+            "url":"https://www.instagram.com/deterministic2018/",
+            "className":"fa fa-instagram"
         }
       ],
     "aboutme":"I am currently a final year student at the National Institute of Technology, Karnataka. I got good grasping capability and super passionate to learn new technologies to keep myself updated.",
